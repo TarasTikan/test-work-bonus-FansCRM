@@ -15,8 +15,8 @@
 1. Встановіть Node.js версії 20.10.0, якщо він не встановлений.
 
 2. Клонуйте репозиторій:
-   git clone https://github.com/ваш/репозиторій.git
-   
+   git clone https://github.com/TarasTikan/test-work-bonus.git
+
 3. Клонуйте репозиторій:
    npm install
 
