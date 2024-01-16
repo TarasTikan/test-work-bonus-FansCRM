@@ -40,7 +40,8 @@
   "build": {
     "extends": null,
     "files": [
-      "build/**/*"
+      "build/**/*",
+      "node_modules/**/*"
     ],
     "directories": {
       "buildResources": "assets"
